@@ -1,9 +1,0 @@
-Reference commands - https://spring.io/guides/gs/spring-boot-docker/
-
-
-Build image & push it to docker hub - public repository  (create your own account in docker hub)
-
-
-
-Then pull the pushed image from docker hub
-
